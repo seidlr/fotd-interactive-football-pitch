@@ -4,4 +4,5 @@ channels:
 dependencies:
   - bqplot=0.11.2
   - ipykernel
+  - pandas=0.24.2
   - qgrid
